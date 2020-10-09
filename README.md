@@ -1,3 +1,2 @@
 A moderation bot
-The scripts were stolen
-Yeah...
+
